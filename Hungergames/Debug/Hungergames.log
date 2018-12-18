@@ -1,0 +1,4 @@
+﻿  game.cpp
+c:\users\linda\onedrive\skrivbord\linda\sti\programmering c-c++\hungergames\hungergames\game.cpp(190): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\linda\onedrive\skrivbord\linda\sti\programmering c-c++\hungergames\hungergames\game.cpp(431): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Hungergames.vcxproj -> C:\Users\Linda\OneDrive\Skrivbord\Linda\STI\Programmering C-C++\Hungergames\Debug\Hungergames.exe
